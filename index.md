@@ -1,5 +1,5 @@
 # Portfolio
-## Elliot Eserin
+## Private void main()
 
 My name is **Elliot Eserin**. I am a 16 year old college student studying **C#** and **Unity**.
 
@@ -7,12 +7,12 @@ My name is **Elliot Eserin**. I am a 16 year old college student studying **C#**
 - My [LinkedIn](https://www.LinkedIn.com).
 - My [YouTube](https://www.YouTube.com).
 
-## Contact details
+## void ContactDetails()
 
 email: ellioteserin@gmail.com
 mobile: (+44)07523 409592 
 
-## Skills
+## void Skills()
 
 | Skills | How they are useful |
 | ------ | ------------------- |
