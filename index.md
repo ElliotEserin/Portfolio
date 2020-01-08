@@ -3,9 +3,7 @@
 
 My name is **Elliot Eserin**. I am a 16 year old college student studying **C#** and **Unity**.
 
-  <img src="https://ellioteserin.github.io/portfolio/assets/logos/facebook.png" alt="drawing" width="20"/> My [Facebook](https://www.facebook.com/elliot.eserin.37)<br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/logos/linkedin.png" alt="drawing" width="20"/> My [LinkedIn](https://www.linkedin.com/in/elliot-eserin-01196719a/)<br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/logos/youtube.png" alt="drawing" width="20"/> My [YouTube](https://www.YouTube.com)<br/> 
+[Social](portfolio/social.md)<br/>
 
 ## void ContactDetails()
 
