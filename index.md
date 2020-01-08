@@ -3,7 +3,7 @@
 
 My name is **Elliot Eserin**. I am a 16 year old college student studying **C#** and **Unity**.
 
-[Social](portfolio/social.md)<br/>
+[Social](https://github.com/ElliotEserin/portfolio/social.md)<br/>
 
 ## void ContactDetails()
 
