@@ -9,7 +9,7 @@ My name is **Elliot Eserin**. I am a 16 year old college student studying **C#**
 
 ## void ContactDetails()
 
-email: ellioteserin@gmail.com
+email: ellioteserin@gmail.com  
 mobile: (+44)07523 409592 
 
 ## void Skills()
