@@ -16,7 +16,7 @@
 				<legend>Comment form</legend>
 				<p>
 					Title:
-					<select name="title" id="">
+					<select name="title" id="" required>
 						<option value="Mr">Mr</option>
 						<option value="Mrs">Mrs</option>
 						<option value="Ms">Ms</option>
@@ -25,23 +25,23 @@
 					</select>
 				</p>
 				<p>
-					First Name:
-					<input type="text" name="firstname">
+					<label for="firstname">First Name:</label>			
+					<input type="text" name="firstname" id="firstname" required>
 				</p>
 				<p>
-					Last Name:
-					<input type="text" name="lastname">
+					<label for="lastname">Last Name:</label>	
+					<input type="text" name="lastname" id="lastname" required>
 				</p>
 				<p>
-					Email:
-					<input type="email" name="_replyto" required>
+					<label for="_replyto">Email:</label>
+					<input type="email" name="_replyto" id="_replyto" required>
 				</p>
 				<p>
-					Comment:<br>
-					<textarea name="message" id="" cols="" rows="5"></textarea>
+					<label for="message">Comment:<br></label>
+					<textarea name="message" id="message" cols="" rows="5" required></textarea>
 				</p>
 				<p>
-					<input type="checkbox" name="checkbox" required>You agree to being spammed by useless bots and fake media
+					<input type="checkbox" name="checkbox" id="checkbox" required> You agree to the terms and conditions
 				</p>
 				<p>
 					<input type="submit" value="Submit" class="button-success pure-button">
