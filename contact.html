@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+		<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>contact</title>
+	</head>
+
+	<body>
+		<fieldset>
+			<form   action="https://formspree.io/mzbegebe"
+  					method="POST" 
+				  	class="pure-form pure-form-stacked">
+				<legend>Comment form</legend>
+				<p>
+					Title:
+					<select name="title" id="">
+						<option value="Mr">Mr</option>
+						<option value="Mrs">Mrs</option>
+						<option value="Ms">Ms</option>
+						<option value="Dr">Dr</option>
+						<option value="Other">Other</option>
+					</select>
+				</p>
+				<p>
+					First Name:
+					<input type="text" name="firstname">
+				</p>
+				<p>
+					Last Name:
+					<input type="text" name="lastname">
+				</p>
+				<p>
+					Email:
+					<input type="email" name="_replyto" required>
+				</p>
+				<p>
+					Comment:<br>
+					<textarea name="message" id="" cols="" rows="5"></textarea>
+				</p>
+				<p>
+					<input type="checkbox" name="checkbox" required>You agree to being spammed by useless bots and fake media
+				</p>
+				<p>
+					<input type="submit" value="Submit" class="button-success pure-button">
+				</p>
+			</form>
+		</fieldset>
+	</body>
+</html>
