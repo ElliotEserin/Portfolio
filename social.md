@@ -1,3 +1,8 @@
+  
+---
+layout: default
+---
+
 # Social
 A list of my current social media pages
 
