@@ -10,18 +10,17 @@ My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-
 
 #Anthropocene. (temporary name) Version: 0.1
 
-<!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Anthropocene FMP</title>
-    <link rel="shortcut icon" href="https://github.com/ElliotEserin/Anthropocene-FMP-game/tree/master/Anthropocene%20FMP/Builds/TemplateData/favicon.ico">
-    <link rel="stylesheet" href="https://github.com/ElliotEserin/Anthropocene-FMP-game/tree/master/Anthropocene%20FMP/Builds/TemplateData/style.css">
-    <script src="https://github.com/ElliotEserin/Anthropocene-FMP-game/tree/master/Anthropocene%20FMP/Builds/TemplateData/UnityProgress.js"></script>
-    <script src="https://github.com/ElliotEserin/Anthropocene-FMP-game/tree/master/Anthropocene%20FMP/Builds/Build/UnityLoader.js"></script>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
     <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "https://github.com/ElliotEserin/Anthropocene-FMP-game/tree/master/Anthropocene%20FMP/Builds/Build/Builds.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/Builds.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
