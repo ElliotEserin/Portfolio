@@ -10,5 +10,6 @@ My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-
 
 ### Anthropocene. (temporary name) Version: 0.1
 
-<a href="game.html"> Play the game. </a> </br>
+<a href="game.html"> Play the game. </a>
+<br>
 [Feedback form.](https://docs.google.com/forms/d/1aUp0jB0AO2GKBhPXXRCqSPv9xr7dgaqbujqi9uCoCLc/prefill)
