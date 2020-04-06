@@ -10,4 +10,4 @@ My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-
 
 ### Anthropocene. (temporary name) Version: 0.1
 
-### [Play the latest build here.](https://github.com/ElliotEserin/portfolio/blob/master/index.html)
+<a href="game.html"> Play the game. </a>
