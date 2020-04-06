@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 # Final Major Project
 ## This section is for displaying information about my current Project, my college FMP.
 
