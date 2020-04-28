@@ -12,4 +12,4 @@ My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-
 
 <a href="game.html"> Play the game. </a>
 <br>
-[Feedback form.]https://docs.google.com/forms/d/e/1FAIpQLSeBsKZaDSpUHMq6CRjnLrW463o8pFNgcwlY2b0wueJP0v0fKA/viewform?usp=sf_link)
+[Feedback form.](https://docs.google.com/forms/d/e/1FAIpQLSeBsKZaDSpUHMq6CRjnLrW463o8pFNgcwlY2b0wueJP0v0fKA/viewform?usp=sf_link)
