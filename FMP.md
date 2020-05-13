@@ -8,7 +8,7 @@ layout: default
 
 My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-FMP-game)
 
-### Anthropocene. (temporary name) Version: 0.1
+### Anthropocene. (temporary name) Version: 1.0 (ALPHA)
 
 <a href="game.html"> Play the game. </a>
 <br>
