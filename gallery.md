@@ -1,5 +1,10 @@
-  <img src="https://ellioteserin.github.io/portfolio/assets/images/Capture.PNG" alt="drawing" width="100%"/><br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/images/Capture1.PNG" alt="drawing" width="100%"/><br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/images/Capture2.PNG" alt="drawing" width="100%"/><br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/images/Capture3.PNG" alt="drawing" width="100%"/><br/>
-  <img src="https://ellioteserin.github.io/portfolio/assets/images/Capture4.PNG" alt="drawing" width="100%"/><br/>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+<img src="https://ellioteserin.github.io/portfolio/assets/images/unnamed (7).png" alt="first">
+
+"https://ellioteserin.github.io/portfolio/assets/images/unnamed (7).png"
