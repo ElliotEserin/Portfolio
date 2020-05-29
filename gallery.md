@@ -11,7 +11,7 @@ img {
 </head>
 <body>
 
-<img src="https://ellioteserin.github.io/portfolio/assets/images/unnamed (7).png" alt="Paris" style="width:150px">
+<img src="https://ellioteserin.github.io/portfolio/assets/images/unnamed (7).png" alt="Paris" style="width:50%">
 
 </body>
 </html>
