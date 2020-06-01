@@ -19,6 +19,6 @@ My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-
 
 Anthropocene is a top-down survival game where you collect resources in order to survive and create a sustainable base or ecosystem. The game was designed to have social impact and so the game is supposed to show the dangers of global warming, pollution and littering in a future, dystopian world in which humans have destroyed. 
 
-The gallery displays a variety of images taken throughout the development of the game - ones at the top are more recent.
+The gallery displays a variety of images taken throughout the development of the game - showing off certain aspects of the game such as the graphics, inventory, main menu etc.
 
 <iframe src="https://drive.google.com/file/d/1qe33vj53H91Plwdx1KWZJyrBVQxHN5IP/preview" width="640" height="480"></iframe>
