@@ -14,22 +14,8 @@ You can contact me through my e-mail: ellioteserin@gmail.com or using the form b
 				  	class="pure-form pure-form-stacked">
 				<legend>Comment form</legend>
 				<p>
-					Title:
-					<select name="title" id="" required>
-						<option value="Mr">Mr</option>
-						<option value="Mrs">Mrs</option>
-						<option value="Ms">Ms</option>
-						<option value="Dr">Dr</option>
-						<option value="Other">Other</option>
-					</select>
-				</p>
-				<p>
-					<label for="firstname">First Name:</label>			
-					<input type="text" name="firstname" id="firstname" required>
-				</p>
-				<p>
-					<label for="lastname">Last Name:</label>	
-					<input type="text" name="lastname" id="lastname" required>
+					<label for="name">Name:</label>			
+					<input type="text" name="name" id="name" required>
 				</p>
 				<p>
 					<label for="_replyto">Email:</label>
