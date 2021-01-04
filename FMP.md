@@ -3,12 +3,12 @@ layout: default
 ---
 
 # Final Major Project
-## This section is for displaying information about my current Project, my college FMP.
+## This section is for displaying information about my Final Major Project Project from my first year of college.
 
 My repository can be found [here.](https://github.com/ElliotEserin/Anthropocene-FMP-game) 
 (this also includes a Windows executable build which tends to work better than the WebGL build)
 
-### Anthropocene. (temporary name) Version: 1.01 
+### Anthropocene. Version: 1.01 
 
 <a href="game.html"> Play the game. </a>
 <br>
