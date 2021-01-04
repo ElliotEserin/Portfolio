@@ -12,7 +12,7 @@ You can contact me through my e-mail: ellioteserin@gmail.com or using the form b
 			<form   action="https://formspree.io/mzbegebe"
   					method="POST" 
 				  	class="pure-form pure-form-stacked">
-				<legend>Comment form</legend>
+				<legend>Contact Form</legend>
 				<p>
 					<label for="name">Name:</label>			
 					<input type="text" name="name" id="name" required>
