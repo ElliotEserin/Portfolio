@@ -8,4 +8,7 @@ Hi, I'm Elliot Eserin, a college student at Lewes College, in my second year doi
 I am and want to be a programmer, currently specialising in C# and Unity3D. I have several years experience in Game Design and programming and have had the opportunity to work on both personal and group projects. I also code all the time as a hobby!
 
 I also have some experience playing and composing music - as I play the piano - as we;; as some very basic artistic and 3D modelling skills.
+I have also experimented in other languages such as JavaScript, Python and C++ as well as HTML and CSS but I mostly code in C# for personal projects. However I am more than eager to learn other languages.
+
+<hr>
 
