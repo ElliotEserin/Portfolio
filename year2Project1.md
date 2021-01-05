@@ -3,13 +3,13 @@ layout: default
 ---
 
 # Year 2 project - Topic: Shaders and realism.
-## This section is for displaying information about my first project of year two where I look at shaders in Unity3D.
+### This section is for displaying information about my first project of year two where I look at shaders in Unity3D.
 
 My repository can be found [here.](https://https://github.com/ElliotEserin/IncrediblySuperRealisticUnderwaterThingy) 
 An executable build of the game can be found [here.](https://drive.google.com/file/d/1fzSqJGvuwZo03iZqsWkcXpnDXYdiKFez/view?usp=sharing)
 Whilst I wanted to make a WebGL build like my previous project, the shaders didn't work properly and it did not work as hoped...
 
-### AquaMarina. Version: 1.00 
+## AquaMarina. Version: 1.00 
 
 <br>
 ### About the game:
