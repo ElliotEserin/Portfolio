@@ -18,7 +18,7 @@ As an ongoing project I am working with an artist to reskin my FMP from last yea
 <br>
 <a id="ticTacToe"></a>
 <h2> 3D TicTacToe </h2>
-Along side our year 2 practical project we made TicTacToe with a twist and I decided to make a 3D physics based TicTacToe. You can play it [here](https://ellioteserin.github.io/TicTacToe%20Build/index.html) if you are interested.
+Along side our year 2 practical project we made TicTacToe with a twist and I decided to make a 3D physics based TicTacToe. You can play it [here](https://ellioteserin.github.io/TicTacToe3D/TicTacToe%20Build/game.html) if you are interested.
 <br>
 <a id="space"></a>
 <h2> Space Invaders </h2>
