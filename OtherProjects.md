@@ -14,11 +14,11 @@
 <hr>
 <a id="FMPReskin"></a>
 <h2> FMP Reskin </h2>
-As an ongoing project I am working with an artist to reskin my FMP from last year. I think this will be really good experience working with someone else - particularly an artist on a project. However I don't currently have anyhting to show.
+As an ongoing project I am working with an artist to reskin my FMP from last year. I think this will be really good experience working with someone else - particularly an artist on a project. However I don't currently have anyhting to show. The repository can be found [here](https://github.com/ElliotEserin/FMP-Re-skin)
 <br>
 <a id="ticTacToe"></a>
 <h2> 3D TicTacToe </h2>
-Along side our year 2 practical project we made TicTacToe with a twist and I decided to make a 3D physics based TicTacToe. You can play it [here]() if you are interested.
+Along side our year 2 practical project we made TicTacToe with a twist and I decided to make a 3D physics based TicTacToe. You can play it [here](https://ellioteserin.github.io/TicTacToe%20Build/index.html) if you are interested.
 <br>
 <a id="space"></a>
 <h2> Space Invaders </h2>
