@@ -22,3 +22,5 @@ The gallery displays a variety of images taken throughout the development of the
 There is also a gameplay video below showcasing the finished protype of the game.
 
 <iframe src="https://drive.google.com/file/d/1qe33vj53H91Plwdx1KWZJyrBVQxHN5IP/preview" width="640" height="480"></iframe>
+
+The audio in this game was sourced for free online. However the art and gameplay were made entirely by me.
