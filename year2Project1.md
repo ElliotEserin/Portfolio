@@ -22,4 +22,4 @@ There is also a gameplay video below showcasing the finished protype of the game
 
 This project was made over the span of 10 weeks (not including pre-production) and was a chance for us to explore a specialised topic, research and design a game and then make it. It involved scheduling, writing up a design document with references to theories, research or inspiring material. It was made between college and home and we used GitHub and SourceTree to verion control our work. 
 
-In this project, all of the art assets were sourced for free online. However I wrote all of the code for the project and - using tutorials - wrote and learned about the shaders before adapting them more to my needs.
+In this project, all of the art assets and audio were sourced for free online. However I wrote all of the code for the project and - using tutorials - wrote and learned about the shaders before adapting them more to my needs.
