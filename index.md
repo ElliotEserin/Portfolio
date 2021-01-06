@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is a portfolio to showcase my projects and work in Game Development.
+### This is a portfolio to showcase my projects and work in Game Development.
 
 # About me
 
