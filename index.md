@@ -10,10 +10,13 @@ I am and want to be a programmer, currently specialising in C# and Unity3D. I ha
 I also have some experience playing and composing music - as I play the piano - as we;; as some very basic artistic and 3D modelling skills.
 I have also experimented in other languages such as JavaScript, Python and C++ as well as HTML and CSS but I mostly code in C# for personal projects. I haven't ever really developed anything more than console applications in other programming languages but I am more than eager to learn more or extend my knowledge on them.
 
+Ever since I've learned about programming and game development I have been really in love with it - whether that was building terrible games in Scratch or writing text adventures in Python, I have loved the problem solving and creativity that it brings and I find a lot of satisfaction out of making programs (especially ones that work!) and imagining what I'll be able to do with whatever new information I have learned.
+Who needs to sleep at night when you have code to figure out...
+
 <hr>
 
 # Qualifications
-
+I thought maybe I should list these somewhere incase they are important...
 ### Level 3
 At college I am studying Software and Game Development. I achieved a Distinction in my first year and am hopefully on track to do the same in my second year.
 
