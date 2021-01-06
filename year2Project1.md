@@ -20,3 +20,4 @@ There is also a gameplay video below showcasing the finished protype of the game
 
 <iframe src="https://drive.google.com/file/d/1n0wH2seNwDF3Q9B91Ae4-smTsrVYeolm/preview" width="640" height="480"></iframe>
 
+This project was made over the span of 10 weeks (not including pre-production) and was a chance for us to explore a specialised topic, research and design a game and then make it. It involved scheduling, writing up a design document with references to theories, research or inspiring material. It was made between college and home and we used GitHub and SourceTree to verion control our work. 
