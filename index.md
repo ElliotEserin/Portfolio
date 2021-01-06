@@ -12,5 +12,45 @@ I have also experimented in other languages such as JavaScript, Python and C++ a
 
 <hr>
 
+# Qualifications
+
+### Level 3
+At college I am studying Software and Game Development. I achieved a Distinction in my first year and am hopefully on track to do the same in my second year.
+
+### GCSE
+At GCSE I got:
+<ul>
+  <li>
+    Computer Science: 9
+  </li> 
+  <li>
+    Biology: 9
+  </li> 
+  <li>
+    Chemistry: 9
+  </li>
+  <li>
+    Physics: 9
+  </li>
+  <li>
+    Mathematics: 8
+  </li>
+  <li>
+    Music: 8
+  </li>
+  <li>
+    English Lan: 8
+  </li>
+  <li>
+    English Lit: 7
+  </li>
+  <li>
+    Food and Cookery: D
+  </li>
+</ul>
+
+### Other
+I also have a Distinction in Grade 5 Piano
+
 
 
