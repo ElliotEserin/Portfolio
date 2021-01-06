@@ -33,3 +33,4 @@ I made a Christmas-themed Space Invaders as a sort of Christmas card that would 
 The Tower (also Diyus Tower) was a platformer/arcade style arena game I made for a Game Jam. However I never finished it in time and so whilst I did complete it eventually, I never submitted it. I did upload it to an unlisted Itch.IO page [here](https://nullreference.itch.io/diyus-tower) if you would like to check it out. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AayDT3AV-dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+Whilst I do a good amount of both coding and Unity in particular, I often make small proof-of-concept apps to learn about things such as player animation or experimenting with a specific player movement idea. But these aren't really developed into anything.
