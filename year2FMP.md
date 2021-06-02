@@ -6,7 +6,7 @@ layout: default
 ### This section is for displaying information about my year 2 Final Major project, looking at procedural generation in Unity3D.
 
 My repository can be found [here.](https://github.com/ElliotEserin/Procedural-Worlds) 
-An executable build of the game can be found [here.](https://ellioteserin.github.io/Procedural-Generation-Build/)
+A WebGL build of the game can be found [here.](https://ellioteserin.github.io/Procedural-Generation-Build/)
 <br>
 ## Isles of Generation. Version: 1.00 
 ### About the game:
