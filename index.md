@@ -6,16 +6,13 @@ layout: default
 
 # About me
 
-Hi, I'm Elliot Eserin, a college student at Lewes College, in my second year doing a Level 3 UAL in Software and Game Design.
-I am and want to be a programmer, currently specialising in C# and Unity3D. I have several years experience in Game Design and programming and have had the opportunity to work on both personal and group projects. I also code all the time as a hobby!
+Hi, I'm Elliot Eserin, a student at Lewes College. I have just finished my second year doing a Level 3 UAL in Software and Game Design. I want to work as a programmer/developer and I specialise in C# and Unity3D. I have several years of experience in Game Design and programming and have had the opportunity to work on both personal and group projects. I have also developed a mobile app for my college using the Flutter SDK and Dart programming language.
 
-I also have some experience playing and composing music - as I play the piano - as well as some very basic artistic and 3D modelling skills.
-I have also experimented in other languages such as JavaScript, Python and C++ as well as HTML and CSS but I mostly code in C# for personal projects. I haven't ever really developed anything more than console applications in other programming languages but I am more than eager to learn more or extend my knowledge on them.
+I also code all the time as a hobby!
 
-I really want to work as a programmer making games. I don't really have much of a preference between working in a small or large team but my dream job would be working in a group to make games!
+I also have some experience playing and composing music, as well as some very basic artistic and 3D modeling skills. I have also experimented in other programming languages such as Dart, JavaScript, Python, and C++ as well as HTML and CSS but I mostly code in C# for personal projects. I haven't ever really developed anything more than console applications in other programming languages but I am more than eager to learn more or extend my knowledge on them.
 
-Ever since I've learned about programming and game development I have been really in love with it - whether that was building terrible games in Scratch or writing text adventures in Python, and now making games in Unity, I have loved the problem solving and creativity that it brings and I find a lot of satisfaction out of making programs (especially ones that work!) and imagining what I'll be able to do with whatever new information I have learned.
-Who needs to sleep at night when you have code to figure out...
+Ever since I've learned about programming and game development I have been really in love with it - whether that was building terrible games in Scratch or writing text adventures in Python, and now making games in Unity, I have loved the problem solving and creativity that it brings and I find a lot of satisfaction out of making programs and imagining what I'll be able to do with whatever new information I have learned.
 
 <hr>
 
@@ -27,8 +24,9 @@ I would say my top skills in this field are:
 
 I would also say I am good at:
 - project planning
-- Time management
+- time management
 - teamwork
+- problem solving
 
 which I think can be seen in the project planning and scheduling for college.
 
