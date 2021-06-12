@@ -18,15 +18,27 @@ Ever since I've learned about programming and game development I have been reall
 
 # Skills
 I would say my top skills in this field are:
-- c#
+- C#
 - Unity
 - Game Design and Development
+- OO Programming
 
 I would also say I am good at:
 - project planning
 - time management
 - teamwork
 - problem solving
+
+Software I have used:
+- Unity
+- Visual Studio
+- Android Studio
+- SourceTree / GitHub
+- Blender
+- Photoshop
+- Audacity
+- Premiere Pro
+- Adobe XD
 
 which I think can be seen in the project planning and scheduling for college.
 
