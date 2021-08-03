@@ -4,9 +4,6 @@
   <li>
     <a href="#BossRush"> Boss Rush Game Jam </a>
   </li>
-  <li>
-    <a href="#ticTacToe"> 3D TicTacToe </a>
-  </li>
 </ul>
 <hr>
 <a id="BossRush"></a>
